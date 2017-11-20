@@ -1,3 +1,3 @@
-#New York Times React Search
+# New York Times React Search
 
-##This is a React.js app that allows users to search for New York Times articles. Upon searching for a specific topic and date range, the page will populate with relevant articles, including links to said articles.  Users may also  add and remove articles from a saved articles section. This app uses Node/Express for the server and routing, MongoDB/Mongoose for the database and models, Bootstrap for the layout and views, and Cheerio/Request for scraping data.
+This is a React.js app that allows users to search for New York Times articles. Upon searching for a specific topic and date range, the page will populate with relevant articles, including links to said articles.  Users may also  add and remove articles from a saved articles section. This app uses Node/Express for the server and routing, MongoDB/Mongoose for the database and models, Bootstrap for the layout and views, and Cheerio/Request for scraping data.
